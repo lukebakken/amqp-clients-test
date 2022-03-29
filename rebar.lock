@@ -1,0 +1,11 @@
+{"1.2.0",
+[{<<"amqp10_client">>,{pkg,<<"amqp10_client">>,<<"3.10.0-rc.1">>},0},
+ {<<"amqp10_common">>,{pkg,<<"amqp10_common">>,<<"3.10.0-rc.1">>},1}]}.
+[
+{pkg_hash,[
+ {<<"amqp10_client">>, <<"055D3292556ECE84CD03569D8E9CC3D22640F072BAAA6505E3571486E8C39878">>},
+ {<<"amqp10_common">>, <<"88B28A0D699659A40882ABAC9D8B0D6154EF73B4985B01C8CF4EF390D076AEBC">>}]},
+{pkg_hash_ext,[
+ {<<"amqp10_client">>, <<"606FFB00FF9C4329D61F69B3E211585DEB517B0427FC1622D98ADEB0D19C6ABD">>},
+ {<<"amqp10_common">>, <<"61C7F24781E0013546B30C9B7B31E0529AE389F9C55149D10BBF247E4465773C">>}]}
+].
